@@ -1,0 +1,14 @@
+**Full Changelog**
+* Android 13 Release 
+* September 2022 Security Patch 
+* Synced with source as of September 7th, 2022
+* mido: Disable zram writeback
+* mido: init: Extend config_avoidGfxAccel for 3GB variants
+* mido: parts: Add vibration intensity control
+* mido: Update Audio HAL from LA.UM.10.6.2.r1-02300-89xx.0
+* mido: audio feature: Disable incall_music support
+* init: Limit cpufreq rate via down-/up_rate_limit_us knobs.
+* perf:increase touch boost duration
+* mido: Enable freeform windows
+* mido: update camera to v47
+* Upstream Kernel to 4.9.326~hyper
