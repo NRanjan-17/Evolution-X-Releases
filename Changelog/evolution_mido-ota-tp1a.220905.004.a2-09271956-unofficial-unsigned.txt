@@ -1,0 +1,7 @@
+Full Changelog:
+- Android 13 Release 
+- Synced with source as of September 29th, 2022
+- Added Applock
+- Fixed Flickering issue
+- mido: Update camera to v48
+- Update Kernel to v1.5
