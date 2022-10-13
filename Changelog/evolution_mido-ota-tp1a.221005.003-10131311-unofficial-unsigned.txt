@@ -1,0 +1,10 @@
+BUILD DATE: 13/10/2022
+
+Changelog: 
+- October 2022 Security Patch
+- Synced with source as of September 29th, 2022
+- mido: Update camera to v52
+- mido: Update build fp/desc to October
+- mido: Update Audio HIDL to 7.1
+- Updated Vendor to September 2022
+- Updated kernel to 4.9.330~hyper-v2.0
